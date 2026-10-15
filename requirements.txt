@@ -1,0 +1,5 @@
+tensorflow==2.XX.X
+numpy==X.X.X
+pandas
+opencv-python
+flask
